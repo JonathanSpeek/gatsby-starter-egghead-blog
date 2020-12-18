@@ -109,6 +109,7 @@ const getGlobalStyles = theme => {
       background-color: #061526 !important;
       border-radius: 4px;
       font-size: 16px;
+      font-family: ${fonts.code};
       padding: 10px;
       overflow-x: auto;
       /* Track */
