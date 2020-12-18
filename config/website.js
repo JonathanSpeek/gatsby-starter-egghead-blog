@@ -11,13 +11,13 @@ module.exports = {
   organization: '',
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: '@eggheadio', // Twitter Username
-  ogSiteName: 'egghead.io Gatsby Starter Blog', // Facebook Site Name
+  userTwitter: '@jonspeek', // Twitter Username
+  ogSiteName: 'Jonathan Speek', // Facebook Site Name
   ogLanguage: 'en_US',
   googleAnalyticsID: '',
 
   // Manifest and Progress color
-  themeColor: '#5348FF',
+  themeColor: '#011627',
   backgroundColor: '#2b2e3c',
 
   // Social component
