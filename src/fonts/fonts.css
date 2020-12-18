@@ -40,10 +40,3 @@
   src: url('Inter-UI-BoldItalic.woff') format('woff');
   font-display: fallback;
 }
-
-@font-face {
-  font-family: 'Mono Font';
-  font-weight: 400;
-  src: url('MonoFont.woff') format('woff');
-  font-display: fallback;
-}

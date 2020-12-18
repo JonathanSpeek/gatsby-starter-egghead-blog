@@ -8,7 +8,6 @@ export const fonts = {
   semiboldItalic: 'Inter UI Semibold Italic',
   bold: 'Inter UI Bold',
   boldItalic: 'Inter UI Bold Italic',
-  code: 'Mono Font',
 }
 
 const typography = new Typography({
