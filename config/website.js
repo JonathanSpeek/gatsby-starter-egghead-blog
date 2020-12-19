@@ -12,7 +12,6 @@ module.exports = {
 
   userTwitter: '@jonspeek', // Twitter Username
   ogLanguage: 'en_US',
-  googleAnalyticsID: '',
 
   // Manifest and Progress color
   themeColor: '#011627',
