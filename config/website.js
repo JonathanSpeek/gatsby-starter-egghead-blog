@@ -10,9 +10,7 @@ module.exports = {
   author: 'Jonathan Speek', // Author for schemaORGJSONLD
   organization: '',
 
-  // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@jonspeek', // Twitter Username
-  ogSiteName: 'Jonathan Speek', // Facebook Site Name
   ogLanguage: 'en_US',
   googleAnalyticsID: '',
 

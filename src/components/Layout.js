@@ -136,7 +136,7 @@ export default ({
   frontmatter = {},
   children,
   noFooter,
-  noSubscribeForm,
+  noSubscribeForm = true,
 }) => {
   const initializeTheme = () => {
     if (typeof window !== 'undefined') {
